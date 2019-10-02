@@ -12,6 +12,6 @@ VIM3 Ubuntu images are found [here](https://docs.khadas.com/vim3/FirmwareUbuntu.
 
 Plug the VIM3 into a router and find its IP (use `nmap` or check DHCP table on router).
 
-* `ssh root@[vim3\_ip\_address]`, password:khadas
+* `ssh root@[vim3_ip_address]`, password:khadas
 
 If all goes well, we shouldn't have to do this again...
