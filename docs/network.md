@@ -16,6 +16,6 @@ We will set up a static IP for the VIM3 soon.
 At the moment, the VIM3 is accessible via the SSH logins:
 
 * root:trinity
-* [etc...]:trinity
+* \[etc...]:trinity
 
 Feel free to add your SSH keys.
