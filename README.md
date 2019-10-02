@@ -4,7 +4,7 @@ Riverhawk Robotics' repo for our [Trinity Firefighting Robot Competition](https:
 
 ----
 ### Docs
-* [Competition rules] (https://trinityrobotcontest.org/rules)
+* [Competition rules](https://trinityrobotcontest.org/rules)
 * [VIM3 setup](docs/setup.md)
 * [Network info for SSH](docs/network.md)
 
